@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  images.unoptimized = true,
   swcMinify: true,
   images: {
+    unoptimized: true,
     domains: [
       'pbs.twimg.com', // Twitter images
       'www.facebook.com', // Facebook images
