@@ -1,58 +1,44 @@
 {
-  "name": "Zenitsu Agatsuma",
-  "bio": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quam culpa quasi sit ipsa eveniet nemo odio at eligendi earum veritatis!",
+  "name": "Полина Зелинская",
+  "bio": "Леди-баг. Люблю книги и фильмы, работать и спать. Днём играю в квизы, по ночам - пою в караоке. Проповедую религию котяток.",
   "images": {
-    "avatar": "avatar.png",
-    "banner": "banner.webp",
-    "hover_change": true,
+    "avatar": "kBU609SB_400x400.jpg",
+    "banner": "1500x500.jpeg",
+    "hover_change": false,
     "onHover_avatar": "animated_avatar.gif"
   },
   "background": "#f5f5f5",
-  "location": "New York, USA",
-  "website": "link-z.vercel.app",
-  "site_url": "https://link-z.vercel.app",
+  "location": "Москва",
+  "website": "polina.cc",
+  "site_url": "https://polina.cc",
   "buttons": {
-    "display": true,
+    "display": false,
     "items": [{"label": "Message"},{"label": "Follow"},{"label": "Posts"}]
   },
   "footer": {
     "display": true,
-    "text": "Your footer text goes here"
+    "text": "© 2024"
   },
   "contacts": {
     "display": true,
     "items": [
-      { "label": "Mail", "url": "mailto:yourmailaddress@mail.com" },
-      { "label": "Messenger", "url": "https://www.messenger.com" },
-      { "label": "Whatsapp", "url": "https://www.whatsapp.com" },
-      { "label": "Telegram", "url": "https://www.telegram.com" },
-      { "label": "Skype", "url": "https://www.skype.com" },
-      { "label": "Viber", "url": "https://www.viber.com" }
+      { "label": "Mail", "url": "mailto:zelinsky@polina.cc" },
+      { "label": "Telegram", "url": "https://t.me/ELTIVE" },
+      { "label": "WhatsApp", "url": "https://wa.me/+79261408678" },
+      { "label": "Phone", "url": "tel:+79261408678" },
+      { "label": "HeadHunter", "url": "https://hh.ru/resume/7fd4f318ff0d3918f20039ed1f426649746431" } 
     ]
   },
   "socials": {
     "display": true,
     "items": [
-      { "label": "Twitter", "url": "https://www.twitter.com" },
-      { "label": "Discord", "url": "https://www.discord.com" },
-      { "label": "Github", "url": "https://www.github.com" },
-      { "label": "Facebook", "url": "https://www.facebook.com" },
-      { "label": "Instagram", "url": "https://www.instagram.com" },
-      { "label": "Tiktok", "url": "https://www.tiktok.com" },
-      { "label": "Linkedin", "url": "https://www.linkedin.com" },
-      { "label": "Youtube", "url": "https://www.youtube.com" },
-      { "label": "Snapchat", "url": "https://www.snapchat.com" },
-      { "label": "Tumblr", "url": "https://www.tumblr.com" },
-      { "label": "Pinterest", "url": "https://www.pinterest.com" },
-      { "label": "Reddit", "url": "https://www.reddit.com" },
-      { "label": "Spotify", "url": "https://www.spotify.com" },
-      { "label": "Stackoverflow", "url": "https://www.stackoverflow.com" },
-      { "label": "Slack", "url": "https://www.slack.com" },
-      { "label": "Amazon", "url": "https://www.amazon.com" }
+      { "label": "Twitter", "url": "https://x.com/TOP_B_TOPTE" },
+      { "label": "Instagram", "url": "https://www.instagram.com/safonova__polina" },
+      { "label": "VK", "url": "https://vk.com/eltive" }
     ]
   },
   "designs": {
-    "display": true,
+    "display": false,
     "items": [
       { "label": "Behance", "url": "https://www.behance.com" },
       { "label": "Dribble", "url": "https://www.dribble.com" },
@@ -60,7 +46,7 @@
     ]
   },
   "wallets": {
-    "display": true,
+    "display": false,
     "items": [
       { "label": "Paypal", "url": "https://www.paypal.com" },
       { "label": "Venmo", "url": "https://www.venmo.com" },
@@ -70,7 +56,7 @@
     ]
   },
   "gaming_profiles": {
-    "display": true,
+    "display": false,
     "items": [
       { "label": "Steam", "url": "https://www.steam.com" },
       { "label": "Epic Games", "url": "https://www.epicgames.com" },
@@ -83,7 +69,7 @@
     ]
   },
   "qna": {
-    "display": true,
+    "display": false,
     "GISCUS_REPO":"",
     "GISCUS_REPO_ID":"",
     "GISCUS_CATEGORY_ID":""
